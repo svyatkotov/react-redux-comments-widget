@@ -1,2 +1,3 @@
 # react-redux-comments-widget
-React-виджет для написания комментариев с хранением состояния в Redux-сторе.
+
+React widjet for writing comments, that keeps the state in the Redux store.
